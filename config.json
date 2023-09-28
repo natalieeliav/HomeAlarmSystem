@@ -1,0 +1,19 @@
+{
+  "email": "email",
+  "password": "password",
+  "phone_numbers": [
+    "PhoneNumber1", "PhoneNumber2"
+  ],
+  "cameras": [{
+
+    "Front Top": {
+        "ip": "111.111.1.111",
+        "username": "username",
+        "password": "password"
+    },
+    "Pool": {
+        "ip": "111.111.1.111",
+        "username": "username",
+        "password": "password"
+    }
+}
